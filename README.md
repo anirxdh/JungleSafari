@@ -1,5 +1,7 @@
 # Jungle Safari 🐘🦁🦒🐵🦜
 
+> **Write-up:** [How Jungle Safari Hides Every AI Round Trip From a Toddler](https://anirudhvasudevan.com/blog/jungle-safari-prewarmed-voice-quiz/), the architecture, decisions and lessons. Built by [Anirudh Vasudevan](https://anirudhvasudevan.com/).
+
 ### 🌿 Live at **[thejunglesafari.netlify.app](https://thejunglesafari.netlify.app)** 🌿
 
 **A playful audio expedition for little explorers (ages 1–3). Hear a real animal sound, tap the right animal, earn safari badges — while an AI mascot cheers them on with a voice-spoken fact tailored to their exact pick.**
